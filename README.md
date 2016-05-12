@@ -12,4 +12,4 @@ A tweet-clustering java program implemented with k-means algorithm, capable of p
 3. follow the instruction provided and enter the commands. Here is an example:
     ./tweets-k-means 25 Data/InitialSeeds.txt Data/Tweets.json Data/out.txt
 
-init.sh automatically invokes java program. 
+init.sh automatically invokes java program. The generated output file is in Data/ folder
